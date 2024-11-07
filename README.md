@@ -1,4 +1,2 @@
-# Ola Mundo
- Primeiro repositorio versionado, aprendendo git e github
-
-//testando!
+# Olá Mundo
+ Primeiro repositorio versionado, aprendendo git e github.
